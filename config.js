@@ -147,11 +147,11 @@ const CONFIG = {
 					link: 'https://youtu.be/DUmcisXhahQ?list=PLfhYURqFvwlw1R8rX3Q8FzgSQc-_w1mkZ',
 				},
 				{
-					name: 'Oldies',
+					name: 'Classic',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Rock',
+					name: 'Local',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
