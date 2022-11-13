@@ -105,6 +105,32 @@ body {
   height: 25px;
 }
 
+.search-form {
+  display: flex;
+  position: absolute;
+  top: 25px;
+  box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
+  border-radius: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+input.search-text {
+  padding: 12px 15px;
+  border-radius: 16px 0px 0px 16px;
+  width: 450px;
+  font-size: 1rem;
+  max-width: 65vw;
+}
+
+.search-btn {
+  padding: 2px 10px;
+  border: none;
+  background: var(--accent);
+  border-radius: 0 1em 1em 0;
+  cursor: pointer;
+}
+
 .container {
   width: 145vh;
   height: 85vh;
