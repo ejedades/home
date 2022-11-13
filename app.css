@@ -149,6 +149,7 @@ input.search-text {
   background: var(--accent);
   border-radius: 0 1em 1em 0;
   cursor: pointer;
+  color: #002D62
 }
 
 .container {
