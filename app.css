@@ -160,6 +160,21 @@ input.search-text {
   padding: 20px;
 }
 
+
+a:visited {
+  color: var(--fg);
+}
+
+a {
+  text-decoration: none;
+  color: var(--fg);
+}
+
+button:active {
+  transform: scale(.9);
+  scale: .9;
+}
+
 .card {
   background-color: var(--cards);
   box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
