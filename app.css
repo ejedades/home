@@ -113,8 +113,8 @@ body {
   border-radius: 16px;
   left: 50%;
   transform: translateX(-50%);
+  color: #B2BEB5
 }
-
 
 input {
   background: var(--input-bg);
